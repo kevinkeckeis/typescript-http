@@ -1,0 +1,28 @@
+{
+  "name": "typescript-http",
+  "version": "1.0.0",
+  "description": "study typescript and http",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinkeckeis/typescript-http.git"
+  },
+  "keywords": [
+    "typescript",
+    "http",
+    "study",
+    "studies"
+  ],
+  "author": "Kevin Keckeis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinkeckeis/typescript-http/issues"
+  },
+  "homepage": "https://github.com/kevinkeckeis/typescript-http#readme",
+  "dependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
